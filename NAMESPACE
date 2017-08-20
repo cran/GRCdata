@@ -1,0 +1,6 @@
+export("find.scheme", "grcmle")
+importFrom("nloptr", "nloptr")
+importFrom("cubature", "adaptIntegrate")
+importFrom("graphics", "image", "lines", "plot")
+importFrom("stats", "pchisq", "qnorm", "integrate", "ppois", "dpois")
+importFrom("utils", "combn")

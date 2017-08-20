@@ -1,0 +1,8 @@
+74983ebcd3054633e6cd8b4eba024db7 *DESCRIPTION
+65a8b6d3e4caff23a2c58a945d81cd39 *NAMESPACE
+cd0b2369264ae77a382a5a44e4ddadc8 *R/find.scheme.R
+28451d63c7af0f95123d3a124a8738b4 *R/grcmle.R
+39baf175452795b729f98d72e21bd4db *R/mlegrc-internal.R
+268c399260c6edf63a32db4ff2597afa *man/GRCdata-package.Rd
+398c1312833df7f087aa2355bc2ae194 *man/find.scheme.Rd
+10dce73dcb0abf4b83dc90e2b3042d30 *man/grcmle.Rd
